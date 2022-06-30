@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xBD37A6611035066089BE25c46C6A70a1c8Ce7D97",
+  "SCAN_LINK": "https://polygonscan.com/token/0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
+  "NETWORK": {
+    "NAME": "Velas",
+    "SYMBOL": "VLX",
+    "ID":106
+  },
+  "NFT_NAME": "COVENAUNT EXORDIUM",
+  "SYMBOL": "COV",
+  "MAX_SUPPLY": 330,
+  "WEI_COST": 300000000000000000000,
+  "DISPLAY_COST": 300,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "SHOW_BACKGROUND": true
+}
